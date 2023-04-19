@@ -1,6 +1,9 @@
 ### Hi there 👋 
-My name
+My name is Anh Phan and I am currently studying Mathematics at St. Olaf College. My interest is spanned across many different things from ✨ Math ✨ (Absolutely!), Data Science, Machine Learning, ..., I just simply a believer of using numbers into daily life. 
+I am currently focusing on Applied Math and Data Science, but i I also work on small challenges or fun stuffs that I found around me. 
+Feel free to look around and give any suggestions on any of my project ^^
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justpqa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **justpqa/justpqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
