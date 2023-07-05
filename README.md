@@ -32,3 +32,4 @@ Feel free to look around and give any suggestions on any of my project. ^^
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=justpqa&show_icons=true&theme=dark" width = 49.5%/>
 </p>
 
+<a href=#><img src="contributions.svg"></a>
